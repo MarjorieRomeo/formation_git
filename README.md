@@ -43,7 +43,7 @@ Envoyer le commit local sur la remote... ***Mais n'oubliez pas de vous mettre à
 
 > m'affiche tous ce qui existe au dernier git fetch 
 
-``` git BRANCHE -r  ```
+``` git branch -r  ```
 
 * Merger une branche 
 
