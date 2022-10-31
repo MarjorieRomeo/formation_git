@@ -33,14 +33,14 @@ Envoyer le commit local sur la remote... ***Mais n'oubliez pas de vous mettre à
 
 * changer de branche 
 
-``` git ckeckout [branche]  ``` 
+``` git ckeckout BRANCHE  ``` 
 
 * Créer une branche et me positionne dessus
 
-``` git checkout -b [branche] ```
+``` git checkout -b BRANCHE ```
 
 * Quelles branches existent 
 
 > m'affiche tous ce qui existe au dernier git fetch 
 
-``` git [branche] -r  ```
+``` git BRANCHE -r  ```
