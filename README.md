@@ -18,4 +18,12 @@ Receiving objects: 100% (3/3), done.
 
 Ajouter au staging : 
 
-git add FICHIER
+```git add FICHIER```
+
+Ajouter a un commit local :
+
+```git commit -m FICHIER```
+
+Envoyer le commit local sur la remote... ***Mais n'oubliez pas de vous mettre à jour avant !***
+
+```git push -u origin BRANCHE ```
